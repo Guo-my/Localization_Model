@@ -4,7 +4,7 @@
 > The code is implemented in PyTorch, requiring pre-configuration of the corresponding environment.
 
 ### This figure displays a prediction result from the model on the test set, with the right-side heatmap illustrating the back-azimuth predicted by the classification model.
-![A localization example](https://github.com/Guo-my/Localization_Model/blob/main/Figure/Localization_example.png)
+![A localization example](https://github.com/Guo-my/Localization_Model/blob/main/Figure/localization%20example.png)
 
 ### Schematic Diagram of Angle-to-Label Conversion with M=4, N=4
 ![Classification label(angle=60deg)](https://github.com/Guo-my/Localization_Model/blob/main/Figure/classification%20label.png)

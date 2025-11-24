@@ -3,10 +3,12 @@
 > [!NOTE]
 > The code is implemented in PyTorch, requiring pre-configuration of the corresponding environment.
 
-### This figure displays four predictions from the model on the test set, with the right-side heatmap illustrating the back-azimuth predicted by the classification model.
+### Figure 1 localization examples.
+This figure displays four predictions from the model on the test set, with the right-side heatmap illustrating the back-azimuth predicted by the classification model.
 ![A localization example](https://github.com/Guo-my/Localization_Model/blob/main/Figure/localization%20example.png)
 
-### Panel (a) shows the corresponding classification labels, while panel (b) illustrates the architecture and output of the final layer in the classification model under this configuration.
+### Figure 2 classification label and classification model
+Panel (a) shows the corresponding classification labels, while panel (b) illustrates the architecture and output of the final layer in the classification model under this configuration.
 ![Classification label(angle=60deg)](https://github.com/Guo-my/Localization_Model/blob/main/Figure/classification%20lable.png)
 
 ### Article abstract

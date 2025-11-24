@@ -6,8 +6,8 @@
 ### This figure displays four predictions from the model on the test set, with the right-side heatmap illustrating the back-azimuth predicted by the classification model.
 ![A localization example](https://github.com/Guo-my/Localization_Model/blob/main/Figure/localization%20example.png)
 
-### Schematic Diagram of Angle-to-Label Conversion with M=4, N=4
-![Classification label(angle=60deg)](https://github.com/Guo-my/Localization_Model/blob/main/Figure/classification%20label.png)
+### Panel (a) shows the corresponding classification labels, while panel (b) illustrates the architecture and output of the final layer in the classification model under this configuration.
+![Classification label(angle=60deg)]([https://github.com/Guo-my/Localization_Model/blob/main/Figure/classification%20label.png](https://github.com/Guo-my/Localization_Model/blob/main/Figure/azi.png))
 
 ### Article abstract
 This study proposes a deep neural network-based approach for single-station three-component seismic localization. The method employs two networks that takes three-component waveforms as input to predict epicentral distance and back-azimuth respectively. Completely data-driven, our approach requires no prior conditions or manual intervention. We trained the model using a dataset containing 367k high-quality seismic events, followed by systematic evaluation across three dimensions: (1) performance comparison with mainstream localization models, (2) robustness testing under low SNR conditions, and (3) generalization assessment using K-Net data. Experimental results demonstrate that our method achieves high-precision single-station three-component localization in most scenarios, validating its effectiveness and practical utility. 
